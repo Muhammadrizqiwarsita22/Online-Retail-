@@ -43,12 +43,12 @@ with st.sidebar:
     with col_logo:
         st.image("https://muslimahnews.id/wp-content/uploads/2022/07/logo_usk.png", width=50)
     with col_text:
-        st.markdown("**Kelompok KARASUNO**")
+        st.markdown("**Kelompok AHAHAYY**")
         st.caption("Data Analytics")
 
     # --- BAGIAN 4: PROFILE (Opsional, dirapikan) ---
     st.markdown("---")
-    st.caption("© 2024 Retail Analytics Project")
+    st.caption("© 2025 Retail Analytics Project")
 
 
 # ==========================================

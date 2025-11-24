@@ -196,7 +196,7 @@ def load_and_clean_data(file):
 # 6. DASHBOARD CONTENT
 # ==========================================
 
-st.title("📊 Executive Retail Overview")
+st.title("📊 Dashboard Online Retail")
 st.markdown("Dashboard interaktif KPI penjualan ritel online.")
 
 if uploaded_file is not None:
